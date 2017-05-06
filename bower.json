@@ -6,6 +6,7 @@
 	"dependencies": {},
 	"devDependencies": {},
 	"license": "MIT",
+	"version": "1.0.0",
 	"main": [
 		"css/p2m-unicode-icons.css",
 		"css/p2m-unicode-icons.min.css"

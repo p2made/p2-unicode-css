@@ -21,10 +21,6 @@
 			"url": "https://github.com/p2made/p2-unicode-css"
 		}
 	],
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"minimum-stability": "dev",
-	"require-dev": {
-			"jekyll": "1.0.2",
-			"lessc": "1.4.2"
-	}
 }

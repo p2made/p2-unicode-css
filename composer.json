@@ -1,0 +1,26 @@
+{
+	"name": "p2made/p2-unicode-css",
+	"description": "Unicode symbols as CSS icons.",
+	"keywords": ["font", "icon", "bootstrap"],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Pedro Plowman",
+			"role": "Developer",
+			"email": "p2opensource@gmail.com",
+			"homepage": "https://github.com/p2made"
+		}
+	],
+	"support": {
+		"issues": "https://github.com/p2made/p2-unicode-css/issues?state=open",
+		"source": "https://github.com/p2made/p2-unicode-css"
+	},
+	"repositories":[
+		{
+			"type": "git",
+			"url": "https://github.com/p2made/p2-unicode-css"
+		}
+	],
+	"version": "1.0.0",
+	"minimum-stability": "dev"
+}
